@@ -13,6 +13,10 @@ Wersja testowa 0.2.0 dla Androida 8.0 lub nowszego.
 - Czytelne zatrzymanie dzwonienia i większe przyciski.
 - Aktualizacja bez odinstalowywania; zapisany plan pozostaje na telefonie.
 
+## Panel web
+
+Lista pozwala filtrować przypomnienia według dnia, osoby i statusu oraz wyszukiwać nazwy. Formularz ma skróty dni i odbiorców, podgląd ustawień i ochronę niezapisanych zmian. Po zapisaniu zmian zsynchronizuj aplikację Android.
+
 ## Instalacja
 
 1. Otwórz link na telefonie i pobierz plik APK.
