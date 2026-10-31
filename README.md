@@ -1,4 +1,6 @@
-# FamilyAlarm — Android
+# FamilyAlarm — web i Android
+
+[Otwórz panel web](https://kamilswitaj.github.io/FamilyAlarm-downloads/) — zarządzanie przypomnieniami po zalogowaniu jako administrator.
 
 [Pobierz FamilyAlarm APK](https://github.com/kamilswitaj/FamilyAlarm-downloads/releases/download/v0.1.0-test.1/FamilyAlarm.apk)
 
@@ -13,6 +15,6 @@ Wersja testowa 0.1.0 dla Androida 8.0 lub nowszego.
 
 Pierwsze logowanie i synchronizacja wymagają internetu. Aplikacja wykonuje przypomnienia zapisane lokalnie po synchronizacji.
 
-To repozytorium zawiera wyłącznie dystrybucję APK i instrukcję instalacji. Dane rodziny i kod aplikacji nie są tu publikowane. Do korzystania z aplikacji potrzebne jest aktywne konto zatwierdzone przez administratora.
+To repozytorium zawiera gotową aplikację web, dystrybucję APK i instrukcję instalacji. Dane rodziny i źródłowe repozytorium projektu pozostają prywatne. Do korzystania z aplikacji potrzebne jest aktywne konto zatwierdzone przez administratora.
 
 APK jest wersją testową podpisaną kluczem debug. Instaluj aktualizacje bez odinstalowywania, jeśli Android akceptuje ich podpis.
