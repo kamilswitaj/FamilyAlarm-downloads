@@ -2,9 +2,16 @@
 
 [Otwórz panel web](https://kamilswitaj.github.io/FamilyAlarm-downloads/) — zarządzanie przypomnieniami po zalogowaniu jako administrator.
 
-[Pobierz FamilyAlarm APK](https://github.com/kamilswitaj/FamilyAlarm-downloads/releases/download/v0.1.0-test.1/FamilyAlarm.apk)
+[Pobierz FamilyAlarm APK](https://github.com/kamilswitaj/FamilyAlarm-downloads/releases/download/v0.2.0-test.1/FamilyAlarm.apk)
 
-Wersja testowa 0.1.0 dla Androida 8.0 lub nowszego.
+Wersja testowa 0.2.0 dla Androida 8.0 lub nowszego.
+
+## Co nowego w Androidzie 0.2.0
+
+- Nowy ekran najbliższego budzika i plan tygodnia.
+- Drzemka 5 i 10 minut w aplikacji i powiadomieniu.
+- Czytelne zatrzymanie dzwonienia i większe przyciski.
+- Aktualizacja bez odinstalowywania; zapisany plan pozostaje na telefonie.
 
 ## Instalacja
 
