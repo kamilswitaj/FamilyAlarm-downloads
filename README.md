@@ -2,15 +2,17 @@
 
 [Otwórz panel web](https://kamilswitaj.github.io/FamilyAlarm-downloads/) — zarządzanie przypomnieniami po zalogowaniu jako administrator.
 
-[Pobierz FamilyAlarm APK](https://github.com/kamilswitaj/FamilyAlarm-downloads/releases/download/v0.3.0-test.1/FamilyAlarm.apk)
+[Pobierz FamilyAlarm APK](https://github.com/kamilswitaj/FamilyAlarm-downloads/releases/download/v0.4.0-test.1/FamilyAlarm.apk)
 
-Wersja testowa 0.3.0 dla Androida 8.0 lub nowszego.
+Wersja testowa 0.4.0 dla Androida 8.0 lub nowszego.
 
-## Co nowego w Androidzie 0.3.0
+## Co nowego w Androidzie 0.4.0
 
-- Ekran dzwoniącego alarmu nad blokadą z dużymi przyciskami zatrzymania oraz drzemki 5 i 10 minut.
-- Dotknięcie powiadomienia otwiera bezpośrednio przyciski alarmu; pozostają też akcje w rozwiniętym powiadomieniu.
-- Stan dostępu do ekranu alarmu i skrót do jego ustawień na Androidzie 14+.
+- Łagodna, wbudowana melodia „Spokojny poranek” jako domyślny dźwięk, także po aktualizacji.
+- W **Ustawienia → Dźwięk budzika** można wybrać melodię z telefonu, odsłuchać ją i przywrócić dźwięk domyślny.
+- Opcjonalne narastanie głośności przez 30 sekund, domyślnie włączone. Głośność końcową wyznacza suwak alarmów w telefonie.
+- Wybór jest osobny dla każdego telefonu i działa offline. Niedostępny dźwięk zastępuje melodia wbudowana.
+- Obsługa zatrzymania i drzemek na ekranie blokady pozostaje dostępna.
 - Aktualizacja bez odinstalowywania; zapisany plan pozostaje na telefonie.
 
 ## Panel web
