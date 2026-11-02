@@ -1,36 +1,44 @@
-# FamilyAlarm — web i Android
+# Family Alarm — web i Android
+
+**[Pobierz Family Alarm na telefon](https://github.com/kamilswitaj/FamilyAlarm-downloads/releases/latest/download/FamilyAlarm.apk)**
+
+To stały adres najnowszej aplikacji. Zapisz go na telefonie i używaj również do kolejnych aktualizacji.
 
 [Otwórz panel web](https://kamilswitaj.github.io/FamilyAlarm-downloads/) — zarządzanie przypomnieniami po zalogowaniu jako administrator.
 
-[Pobierz FamilyAlarm APK](https://github.com/kamilswitaj/FamilyAlarm-downloads/releases/download/v0.4.0-test.1/FamilyAlarm.apk)
+Aktualna wersja: **Family Alarm 0.5.0**, Android 8.0 lub nowszy.
 
-Wersja testowa 0.4.0 dla Androida 8.0 lub nowszego.
+## Co nowego
 
-## Co nowego w Androidzie 0.4.0
+- Ekran budzika z godziną, zatrzymaniem i drzemką nad blokadą telefonu.
+- Każdy budzik domyślnie tylko wibruje.
+- Osobny wybór dźwięku przy każdym budziku: **Mój plan → dotknij budzika**.
+- Dźwięk ustawiasz lokalnie na danym telefonie. Możesz go odsłuchać albo ponownie wyłączyć.
+- Wspólny telefon Radio korzysta z osobnego konta i przypisanych mu budzików.
+- Aktualizacja zachowuje zapisany plan — nie odinstalowuj poprzedniej aplikacji.
 
-- Łagodna, wbudowana melodia „Spokojny poranek” jako domyślny dźwięk, także po aktualizacji.
-- W **Ustawienia → Dźwięk budzika** można wybrać melodię z telefonu, odsłuchać ją i przywrócić dźwięk domyślny.
-- Opcjonalne narastanie głośności przez 30 sekund, domyślnie włączone. Głośność końcową wyznacza suwak alarmów w telefonie.
-- Wybór jest osobny dla każdego telefonu i działa offline. Niedostępny dźwięk zastępuje melodia wbudowana.
-- Obsługa zatrzymania i drzemek na ekranie blokady pozostaje dostępna.
-- Aktualizacja bez odinstalowywania; zapisany plan pozostaje na telefonie.
+## Instalacja i aktualizacja
+
+1. Otwórz powyższy link na telefonie i pobierz `FamilyAlarm.apk`.
+2. Otwórz plik i zezwól na instalację z używanego źródła, jeśli Android o to poprosi.
+3. Zainstaluj jako aktualizację, bez odinstalowywania poprzedniej aplikacji.
+4. Przy pierwszym uruchomieniu zaloguj się kontem Family Alarm przygotowanym przez administratora i zsynchronizuj plan.
+5. Zezwól na powiadomienia i sprawdź dostęp do dokładnych alarmów.
+6. Na Androidzie 14+ otwórz **Ustawienia → Dostęp do ekranu alarmu** i zezwól na pełnoekranowe alarmy.
+7. Wybierz dźwięk osobno dla każdego budzika, który ma grać. Bez wyboru pozostaje sama wibracja.
+
+Podczas używania odblokowanego telefonu Android może pokazać powiadomienie zamiast przejąć ekran. Ekran blokady i współpracę z docelowym głośnikiem należy sprawdzić na swoim telefonie.
+
+Pierwsze logowanie i synchronizacja wymagają internetu. Zapisane lokalnie przypomnienia działają offline.
 
 ## Panel web
 
-Lista pozwala filtrować przypomnienia według dnia, osoby i statusu oraz wyszukiwać nazwy. Formularz ma skróty dni i odbiorców, podgląd ustawień i ochronę niezapisanych zmian. Po zapisaniu zmian zsynchronizuj aplikację Android.
+Lista pozwala filtrować przypomnienia według dnia, odbiorcy i statusu oraz wyszukiwać nazwy. Po zmianach zsynchronizuj zainteresowane telefony.
 
-## Instalacja
+To repozytorium zawiera aplikację web, APK i instrukcję instalacji. Dane rodziny oraz źródłowe repozytorium projektu pozostają prywatne. Dostęp wymaga aktywnego konta zatwierdzonego przez administratora.
 
-1. Otwórz link na telefonie i pobierz plik APK.
-2. Otwórz plik i zezwól na instalację z używanego źródła, jeśli Android o to poprosi.
-3. Uruchom Family Alarm i zaloguj się kontem FamilyAlarm nadanym przez administratora.
-4. Zezwól na powiadomienia, sprawdź dostęp do dokładnych alarmów i wybierz Synchronizuj.
-5. Na Androidzie 14+ w aplikacji otwórz **Ustawienia → Dostęp do ekranu alarmu** i zezwól na wyświetlanie alarmów na pełnym ekranie. Sprawdź też widoczność powiadomień na blokadzie w ustawieniach telefonu.
+APK zachowuje dotychczasowy podpis debug, aby umożliwić aktualizację istniejących instalacji. Nie jest to dystrybucja przez Google Play.
 
-Pełny ekran pojawia się zgodnie z ustawieniami Androida. Podczas używania telefonu system może pokazać powiadomienie zamiast przejmować ekran. Działanie blokady i drzemki należy sprawdzić na swoim telefonie.
+## Zasada publikacji
 
-Pierwsze logowanie i synchronizacja wymagają internetu. Aplikacja wykonuje przypomnienia zapisane lokalnie po synchronizacji.
-
-To repozytorium zawiera gotową aplikację web, dystrybucję APK i instrukcję instalacji. Dane rodziny i źródłowe repozytorium projektu pozostają prywatne. Do korzystania z aplikacji potrzebne jest aktywne konto zatwierdzone przez administratora.
-
-APK jest wersją testową podpisaną kluczem debug. Instaluj aktualizacje bez odinstalowywania, jeśli Android akceptuje ich podpis.
+Każde następne wydanie ma zwykły numer wersji (np. `v0.5.0`), nazwę `Family Alarm 0.5.0` i plik `FamilyAlarm.apk`. Jest publikowane jako najnowsze wydanie. Stały link powyżej automatycznie wskazuje nowy plik.
