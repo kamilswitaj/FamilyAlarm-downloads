@@ -6,9 +6,12 @@ To stały adres najnowszej aplikacji. Zapisz go na telefonie i używaj również
 
 [Otwórz panel web](https://kamilswitaj.github.io/FamilyAlarm-downloads/) — zarządzanie przypomnieniami po zalogowaniu jako administrator.
 
-Aktualna wersja: **Family Alarm 0.5.0**, Android 8.0 lub nowszy.
+Aktualna wersja: **Family Alarm 0.6.0**, Android 8.0 lub nowszy.
 
 ## Co nowego
+
+- **Pomiń najbliższy budzik** — dotknij budzika w Moim planie, aby wyłączyć tylko jedno wystąpienie na tym telefonie. Kolejne terminy pozostają aktywne.
+- **Cofnij pominięcie** przywraca najbliższy termin. Pominięcie przetrwa synchronizację i restart telefonu, bez zmieniania planu innych domowników.
 
 - Ekran budzika z godziną, zatrzymaniem i drzemką nad blokadą telefonu.
 - Każdy budzik domyślnie tylko wibruje.
